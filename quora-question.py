@@ -18,7 +18,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 email = "nduc.anh@gmail.com"
-pwd = "DAcgl4nt@"
+pwd = ""
 driver = webdriver.Chrome("/Users/ducn/.wdm/drivers/chromedriver/79.0.3945.36/mac64/chromedriver")
 askbar_css = ""
 
